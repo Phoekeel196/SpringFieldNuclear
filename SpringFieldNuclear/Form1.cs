@@ -77,13 +77,7 @@ namespace SpringFieldNuclear
             Refresh();
             Thread.Sleep(1000);
 
-            LeftBlue.BackColor = Color.Red;
-            RightBlue.BackColor = Color.Red;
-            Refresh();
-            Thread.Sleep(1000);
-
-            LeftBlue.BackColor = Color.Blue;
-            RightBlue.BackColor = Color.Blue;
+            
 
 
 
